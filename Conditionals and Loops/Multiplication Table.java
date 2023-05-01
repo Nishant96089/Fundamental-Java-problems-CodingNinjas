@@ -1,3 +1,4 @@
+/*
 Write a program to print multiplication table of n
 Input Format :
 A single integer, n
@@ -31,6 +32,7 @@ Sample Output 2 :
 40
 45
 50
+*/
 
 
 
