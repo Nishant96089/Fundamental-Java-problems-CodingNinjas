@@ -1,4 +1,5 @@
-//Write a program to calculate the total salary of a person. The user has to enter the basic salary (an integer) and the grade (an uppercase character), and depending upon which the total salary is calculated as -
+/*
+Write a program to calculate the total salary of a person. The user has to enter the basic salary (an integer) and the grade (an uppercase character), and depending upon which the total salary is calculated as -
     totalSalary = basic + hra + da + allow – pf
 where :
 hra   = 20% of basic
@@ -32,7 +33,7 @@ pf = 11% of Rs. 4567 = Rs. 502.37
 
 Since, the grade is 'B', we take allowance as Rs. 1500.
 On substituting these values to the formula of totalSalary, we get Rs. 8761.53 and now rounding it off will result in Rs. 8762 and hence the Answer.
-//
+*/
 
 
 
